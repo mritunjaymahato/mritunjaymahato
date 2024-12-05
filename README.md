@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/dnadisai" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/dnadisai?logo=twitter&style=for-the-badge" alt="https://twitter.com/dnadisai" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++, Java, Python**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mritunjay-mahato-737b95244/](https://www.linkedin.com/in/mritunjay-mahato-737b95244/)
 
